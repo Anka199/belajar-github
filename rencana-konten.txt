@@ -2,6 +2,6 @@ rencana konten
 
 -podcast
 membicarakan tentang kemanusiaan dan alam
-
+-struktur data dasar
 -interview
 -bikin vlog
