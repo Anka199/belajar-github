@@ -2,8 +2,9 @@ rencana konten
 
 -podcast
 membicarakan tentang kemanusiaan dan alam
-belajar angular
-belajar react
+belajar vue
 -struktur data dasar
 -interview
 -bikin vlog
+-belajar python
+-belajar github
